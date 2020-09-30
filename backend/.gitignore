@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+.env.example
+dist
+tmp/*
+!tmp/.gitkeep
+copy(tsCOnfig)
